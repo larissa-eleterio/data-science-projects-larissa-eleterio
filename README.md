@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src=""C:\Users\Lari\Downloads\imagem.jpeg" >
+  <img src="C:\Users\Lari\Downloads\imagem.jpeg" >
 </p>
+
 
 # Larissa Eleterio
 <sub>*Data Scientist* at Ministério Público do Estado do Rio de Janeiro</sub>
