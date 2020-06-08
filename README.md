@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg" data-canonical-src="https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg" width="800" height="200" />
+<img src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" data-canonical-src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" width="800" height="200" />
 
 # Larissa Eleterio
 <sub>*Data Scientist* at Ministério Público do Estado do Rio de Janeiro</sub>
