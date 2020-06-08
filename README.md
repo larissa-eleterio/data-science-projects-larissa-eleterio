@@ -1,7 +1,12 @@
+
+<p align="center">
+  <img src=""C:\Users\Lari\Downloads\imagem.jpeg" >
+</p>
+
 # Larissa Eleterio
 <sub>*Data Scientist* at Ministério Público do Estado do Rio de Janeiro</sub>
 
-My experience as Staticistian at Fundação Oswaldo Cruz, Instituto Pereira Passos and Ministério Público do Estado do Rio de Janeiro helped me to develop multidisciplinary team-work skill, understand the big picture when analysing a dataset, besides critical thinking.
+My experience as Staticistian at Fundação Oswaldo Cruz, Instituto Pereira Passos and Ministério Público do Estado do Rio de Janeiro helped me to develop multidisciplinary team-work skill, understand the big picture when analysing a dataset and critical thinking.
 
 My credentials include a Master's in Applied Statistics from the National Statistics School (Ence/IBGE), a traditional public statistics instituition and experience with python, R, SAS, Data Visualization and Clustering Algorithms.
 
