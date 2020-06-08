@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="C:\Users\Lari\Downloads\imagem.jpeg" >
-</p>
+![alt text](https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg)
 
 
 # Larissa Eleterio
