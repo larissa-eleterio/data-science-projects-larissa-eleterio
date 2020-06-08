@@ -1,5 +1,3 @@
-![alt text](https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg)
-
 <img src="https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg" data-canonical-src="https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg" width="800" height="200" />
 
 # Larissa Eleterio
