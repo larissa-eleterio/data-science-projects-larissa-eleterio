@@ -11,7 +11,7 @@ My credentials include a Master's in Applied Statistics from the National Statis
 * [LinkedIn](https://www.linkedin.com/in/larissaeleterio)
 * [Medium](https://www.medium.com/@larissa.eleterio)
 
-## Projetos:
+## Projects:
 
 * **Usando análise de componentes principais para a construção de indicador de infraentrutura:** link
 * **Análise das condições da oferta de educação formal nas unidades socioeducativas no estado do Rio de Janeiro:** link
