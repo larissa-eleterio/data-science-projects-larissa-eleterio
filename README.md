@@ -13,10 +13,11 @@ My credentials include a Master's in Applied Statistics from the National Statis
 
 ## Projects:
 
-* **Usando análise de componentes principais para a construção de indicador de infraentrutura:** link
-* **Análise das condições da oferta de educação formal nas unidades socioeducativas no estado do Rio de Janeiro:** link
-* **Utilizando web scraping para coletar dados de orçamento público do SIOPE:** link
-* **Criando formulários em python (formulário de reprovação):** link
-* **Repercursão de postagens no instagram (Renata Barreto e Mariana Brito) usando wordcloud:** link
-* **Algo relacionado a mercado financeiro:** link
+* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/30M9eHc
+
+#* **Análise das condições da oferta de educação formal nas unidades socioeducativas no estado do Rio de Janeiro:** link
+#* **Utilizando web scraping para coletar dados de orçamento público do SIOPE:** link
+#* **Criando formulários em python (formulário de reprovação):** link
+#* **Repercursão de postagens no instagram (Renata Barreto e Mariana Brito) usando wordcloud:** link
+#* **Algo relacionado a mercado financeiro:** link
 
