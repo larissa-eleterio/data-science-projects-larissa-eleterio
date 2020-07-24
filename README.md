@@ -14,6 +14,6 @@ My credentials include a Master's in Applied Statistics from the National Statis
 ## Projects:
 
 * **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3d2iWrh
-* **Aplicando análise de componetes principais na criação de um índice:** https://bit.ly/2B8wqVj
+* **Aplicando análise de componetes principais na criação de um KPI:** https://bit.ly/2B8wqVj
 * **Analisando o desempenho de um time de CS:GO durante um campeonato:** https://bit.ly/3eSlFEH
 
