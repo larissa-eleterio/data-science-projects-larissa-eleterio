@@ -1,4 +1,4 @@
-<img src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" data-canonical-src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" width="800" height="350" />
+<img src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" data-canonical-src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" width="800" height="350" />
                                                       from: https://www.hivery.com/ and https://www.qelp.com/
 
 
