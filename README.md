@@ -1,6 +1,6 @@
 <img src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" data-canonical-src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" width="800" height="200" />
 
-<img src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" data-canonical-src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" width="800" height="450" />
+<img src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" data-canonical-src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" width="800" height="350" />
 
 
 # Larissa Eleterio
