@@ -1,4 +1,4 @@
-<img src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" data-canonical-src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" width="800" height="250" />
+<img src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" data-canonical-src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" width="800" height="300" />
                                                       from: https://www.hivery.com/ and https://www.qelp.com/
 
 
