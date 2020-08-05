@@ -1,7 +1,10 @@
 <img src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" data-canonical-src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" width="800" height="200" />
 
+<img src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" data-canonical-src="https://www.qelp.com/wp-content/uploads/2018/11/sds-1-1080x6751.jpg" width="800" height="200" />
+
+
 # Larissa Eleterio
-<sub>*Data Scientist* at Ministério Público do Estado do Rio de Janeiro</sub>
+<sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
 
 My experience as Staticistian at Fundação Oswaldo Cruz, Instituto Pereira Passos and Ministério Público do Estado do Rio de Janeiro helped me to develop multidisciplinary team-work skill, understand the big picture when analysing a dataset and critical thinking.
 
