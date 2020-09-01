@@ -16,7 +16,7 @@ My credentials include a Master's in Applied Statistics from the National Statis
 ## Projects:
 
 * **Detectando fraudes em cartões de crédito:** https://bit.ly/3hGI6OZ
-* **Analisando o desempenho de um time de CS:GO durante um campeonato:** https://bit.ly/3eSlFEH
-* **Aplicando análise de componetes principais na criação de KPI's:** https://bit.ly/2B8wqVj
-* **Criando KPI's com features categóricas usando o algoritmo MCA:** https://bit.ly/39VcW3U
-* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3d2iWrh
+* **Analisando o desempenho de um time de CS:GO durante um campeonato:** https://bit.ly/3hRWEMd
+* **Aplicando análise de componetes principais na criação de KPI's:** https://bit.ly/34TCpdj
+* **Criando KPI's com features categóricas usando o algoritmo MCA:** https://bit.ly/3hQf9AM
+* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3jxeMLV
