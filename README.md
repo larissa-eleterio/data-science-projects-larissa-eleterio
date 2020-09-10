@@ -1,7 +1,7 @@
 %<img src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" data-canonical-src="http://blog.else-corp.com/wp-%content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" width="800" height="340" />                                                      
 %from: https://www.hivery.com/ and https://www.qelp.com/
 
-# [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif = 250x250)
+# [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif  = 250x250 )](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)
 
 
 # Larissa Eleterio
