@@ -5,9 +5,11 @@ from: https://www.hivery.com/ and https://www.qelp.com/
 # Larissa Eleterio
 <sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
 
-My experience as Staticistian at Fundação Oswaldo Cruz, Instituto Pereira Passos and Ministério Público do Estado do Rio de Janeiro helped me to develop multidisciplinary team-work skill, understand the big picture when analysing a dataset and critical thinking.
+Minhas experiências com dados na Fundação Oswaldo Cruz, Instituto Pereira Passos e Ministério Público do Estado do Rio de Janeiro me ajudaram a desenvolver habilidades de trabalho em equipes multidisciplinares, a capacidade de sempre procurar compreender o quadro geral ao analisar um conjunto de dados e principalmente um pensamento investigativo em relação aos dados.
 
-My credentials include a Master's in Applied Statistics from the National Statistics School (Ence/IBGE), a traditional statistics instituition. I am experienced in python, R, SAS, Machine Learning, Data Visualization and Dimensionality reduction Algorithms.
+Minhas credenciais incluem Mestrado em Estatística Aplicada pela Escola Nacional de Estatística (Ence / IBGE), instituição tradicional de estatística no Rio de Janeiro e Bacharelado em Estatística pela Universidade Federal Fluminense. 
+
+Tenho experiência em Python, R, SAS, Machine Learning Development, Algoritmos de Redução de Dimensionalidade e Visualização de Dados (Tableau, Power Bi e ArcGis).
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/larissaeleterio)
@@ -19,4 +21,4 @@ My credentials include a Master's in Applied Statistics from the National Statis
 * **Analisando o desempenho de um time de CS:GO durante um campeonato:** https://bit.ly/3hRWEMd
 * **Aplicando análise de componetes principais na criação de KPI's:** https://bit.ly/34TCpdj
 * **Criando KPI's com features categóricas usando o algoritmo MCA:** https://bit.ly/3hQf9AM
-* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3jxeMLV
+
