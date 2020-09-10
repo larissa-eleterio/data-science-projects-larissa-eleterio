@@ -1,9 +1,7 @@
 %<img src="http://blog.else-corp.com/wp-content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" data-canonical-src="http://blog.else-corp.com/wp-%content/uploads/2019/07/What-can-AI-do-for-Fashion-today.jpg" width="800" height="340" />                                                      
 %from: https://www.hivery.com/ and https://www.qelp.com/
 
-# [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif){:height="50%" width="50%"}
-
-<img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="400" height="790">
+<img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="800" height="400">
 
 # Larissa Eleterio
 <sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
