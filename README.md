@@ -1,4 +1,4 @@
-<img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="800" height="300">
+<img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="500" height="300">
 
 <sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
 
