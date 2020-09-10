@@ -3,6 +3,7 @@
 
 # [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif){:height="50%" width="50%"}
 
+<img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="400" height="790">
 
 # Larissa Eleterio
 <sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
