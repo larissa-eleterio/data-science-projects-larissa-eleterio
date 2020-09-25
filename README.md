@@ -18,4 +18,4 @@ Tenho experiência em Python, R, SAS, Machine Learning Development, Algoritmos d
 * **Aplicando análise de componetes principais na criação de KPI's:** https://bit.ly/34TCpdj
 * **Criando KPI's com features categóricas usando o algoritmo MCA:** https://bit.ly/3hQf9AM
 * **Analisando o desempenho de um time de CS:GO durante um campeonato:** https://bit.ly/3hRWEMd
-
+* **Web Scraping com Selenium no CS:GO:** https://bit.ly/3iaqFq9
