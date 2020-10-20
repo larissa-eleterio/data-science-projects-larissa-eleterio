@@ -1,6 +1,6 @@
 <img src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif" width="500" height="300">
 
-<sub>*Data Analyst* at Ministério Público do Estado do Rio de Janeiro</sub>
+<sub>*Data Analyst* at Data Sprints </sub>
 
 Minhas experiências com dados na Fundação Oswaldo Cruz, Instituto Pereira Passos e Ministério Público do Estado do Rio de Janeiro me ajudaram a desenvolver habilidades de trabalho em equipes multidisciplinares, a capacidade de sempre procurar compreender o quadro geral ao analisar um conjunto de dados e principalmente ter um pensamento investigativo em relação aos dados.
 
